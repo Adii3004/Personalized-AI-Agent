@@ -1,0 +1,21 @@
+# Flask for web API
+flask==2.3.2
+
+# API calls to OpenRouter or OpenAI-compatible endpoints
+requests==2.31.0
+openai==1.14.2  # Used for OpenRouter-like API
+
+# .env config
+python-dotenv==1.0.1
+
+# Optional formatting for CLI output
+rich==13.7.0
+
+# Optional performance optimization
+ujson==5.9.0
+
+# Dev dependencies
+black==24.3.0
+flake8==7.0.0
+mypy==1.9.0
+pytest==8.1.1

@@ -1,0 +1,19 @@
+I'm excited to apply for a vacation leave as I've been working diligently on various projects, including my capstone project, a web-based application utilizing React, Node.js, and MongoDB. Now, I'd like to take some time off to recharge and come back refreshed.
+
+Here's my application:
+
+Dear [Supervisor's Name],
+
+I am writing to request a vacation leave from [Date] to [Date], which is a total of [Number] days. I have made sure to review our team's project schedules and ensured that my tasks are up-to-date before taking this leave.
+
+I am currently working on several projects, including my capstone project, where I am implementing a machine learning model using Python and scikit-learn. I have made significant progress and have a plan in place to complete the remaining tasks before my leave.
+
+During my absence, I have made arrangements for [Colleague's Name] to cover my responsibilities and ensure a smooth continuation of our projects. I have also documented my current tasks and will be available by email if any urgent matters arise.
+
+I am confident that this break will allow me to return to work refreshed and focused, ultimately benefiting the team and the company. I am committed to delivering high-quality results and meeting deadlines.
+
+Thank you for considering my request. Please let me know if there are any concerns or if there's any additional information required.
+
+Best regards,
+
+<YOUR_NAME>
