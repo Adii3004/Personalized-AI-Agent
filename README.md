@@ -58,7 +58,7 @@ It intelligently parses intent using an LLM-powered internal parser and routes t
 -----
 **4. Web API (Flask-based)**
 
-For remote interaction or integration with platforms like OptimalAgents, a RESTful Flask API is included:
+For remote interaction or integration with platforms, a RESTful Flask API is included:
 
 - POST /run → Generate writing with memory context
 - GET /profile → Return current memory in formatted profile
