@@ -4,7 +4,7 @@
 
 **ShadowClone** is a personalized AI agent that mimics a user’s tone, writing style, memory, and professional background to generate high-context content like cover letters, applications, summaries, and more. Designed as a productivity assistant for students, job seekers, and professionals, ShadowClone blends memory management, natural language interaction, and dynamic content creation into one unified agent.
 
-It supports both **Command Line Interface (CLI)** interaction and **REST API access (Flask)**, allowing users to interact programmatically or casually through natural language. It’s optimized for agent deployment on platforms, with full memory control, rollback support, and contextual LLM responses. -----
+It supports both **Command Line Interface (CLI)** interaction and **REST API access (Flask)**, allowing users to interact programmatically or casually through natural language. It’s optimized for agent deployment on platforms, with full memory control, rollback support, and contextual LLM responses.
 
 **Functional Capabilities**
 
